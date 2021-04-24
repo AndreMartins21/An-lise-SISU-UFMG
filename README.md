@@ -32,19 +32,19 @@
 
 **</>** No arquivo [***DF_SISU_UFMG.ipynb***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/DF_SISU_UFMG.ipynb), está contido todo o processo de construção do data_frame a partir do PDF. Nele, utilizei três bibliotecas do Python: 
 
-🗄️ PyPDF2 = Utilizada para transformar o conteúdo de um PDF em uma string;
+. PyPDF2 = Utilizada para transformar o conteúdo de um PDF em uma string;
 
-🔎 Regex = Trata-se das expressões regulares, que facilitam expressivamente o trabalho de buscas por cadeias de caractéres específicos em uma string;
+. Regex = Trata-se das expressões regulares, que facilitam expressivamente o trabalho de buscas por cadeias de caractéres específicos em uma string;
 
-🗂️ Pandas = Ferramenta essencial para manipulação, filtração e análise de dados. 
+. Pandas = Ferramenta essencial para manipulação, filtração e análise de dados. 
 
 
 
-**</>** Já no arquivo [***Analise_SISU_UFMG.ipynb***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/Analise_SISU_UFMG.ipynb)** há as análises dos dados, mostrando todo processo para responder às questões citadas anteriormente. Em tal arquivo, fiz uso das librarys:
+**</>** Já no arquivo [***Analise_SISU_UFMG.ipynb***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/Analise_SISU_UFMG.ipynb) há as análises dos dados, mostrando todo processo para responder às questões citadas anteriormente. Em tal arquivo, fiz uso das librarys:
 
-📊 Matplotlib.pyplot = Biblioteca exclusiva para a visualização de dados e criação de gráficos;
+. Matplotlib.pyplot = Biblioteca exclusiva para a visualização de dados e criação de gráficos;
 
-🗂️ Pandas
+. Pandas
 
 
 ## Parceria:
