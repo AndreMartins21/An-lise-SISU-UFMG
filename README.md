@@ -32,7 +32,7 @@
 
 ## Parceria:
 
-- Para a efetivação de todo o trabalho de análise, elaborei tudo em conjunto a um amigo: Gilmar.
+- Para a efetivação de todo o trabalho de análise, elaborei tudo conjuntamente ao parceiro Gilmar:
 
 🔗 Github: [https://github.com/Gilnior](https://github.com/Gilnior)
 
