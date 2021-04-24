@@ -4,7 +4,7 @@
 
 ## Objetivo:
 
-/> Esse repositório foi de grande valia para os seguintes aspectos: 
+**/>** Esse repositório foi de grande valia para os seguintes aspectos: 
 
 - Responder algumas questões que podem surgir em torno do arquivo contendo as notas da primeira edição do [SISU UFMG](https://www.ufmg.br/sisu/wp-content/uploads/2021/04/M%C3%A1ximos-e-M%C3%ADnimos-ap%C3%B3s-Chamada-regular.pdf);
 
@@ -13,7 +13,7 @@
 - Me fez aprender mais acerca de Regex (Regular Expression)
 
 
-/> As principais questões analisadas nesse repositório foram:
+**/>** As principais questões analisadas nesse repositório foram:
 
 - Número de cursos ofertados no SISU UFMG 2021
 
@@ -22,3 +22,15 @@
 - Cinco cursos com as menores notas POR MODALIDADE (Cotas e A.C.)
 
 - Número de cursos Matutinos / Noturnos / Integrais / Vespertinos
+
+## Instruções:
+
+## Parceria:
+
+- Para a efetivação de todo o trabalho de análise, elaborei tudo em conjunto a um amigo: Gilmar.
+
+<a>
+ <img src = "https://github.com/AndreMartins21/Analise-SISU-UFMG/blob/main/Imagens_Sisu/icone_github.png" width=30/>
+</a>https://github.com/Gilnior
+
+
