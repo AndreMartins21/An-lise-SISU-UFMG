@@ -13,7 +13,7 @@
 - Me fez aprender mais acerca de Regex (Regular Expression)
 
 
-**/>** As principais questões analisadas nesse repositório foram:
+**/>** Principais questões analisadas nesse repositório foram:
 
 - Número de cursos ofertados no SISU UFMG 2021
 
