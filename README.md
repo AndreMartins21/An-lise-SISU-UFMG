@@ -34,9 +34,9 @@
 
 🗄️ PyPDF2 = Utilizada para transformar o conteúdo de um PDF em uma string;
 
-🔎 Regex = Trata-se das expressões regulares, em que facilita expressivamente o trabalho de buscas por cadeias de caractéres específicos em uma string;
+🔎 Regex = Trata-se das expressões regulares, que facilitam expressivamente o trabalho de buscas por cadeias de caractéres específicos em uma string;
 
-🗂️ Pandas = Ferramente essencial para manipulação, filtração e análise de dados. Por meio dela que pude montar o data_frame semelhante à tabela de dados em PDF.
+🗂️ Pandas = Ferramenta essencial para manipulação, filtração e análise de dados. Por meio dela que pude montar o data_frame semelhante à tabela de dados em PDF.
 
 
 
