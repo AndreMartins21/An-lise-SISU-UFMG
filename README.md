@@ -2,11 +2,16 @@
  <img src = "https://user-images.githubusercontent.com/64978311/115966529-5df93f00-a504-11eb-9330-d67492b1253b.png"/>
  </p>
 
+## 📂 Arquivo: 
+
+[SISU UFMG](https://www.ufmg.br/sisu/wp-content/uploads/2021/04/M%C3%A1ximos-e-M%C3%ADnimos-ap%C3%B3s-Chamada-regular.pdf)
+(Clique para acessar o PDF contendo todas as informações)
+
 ## Objetivo:
 
 **/>** Esse repositório foi de grande valia para os seguintes aspectos: 
 
-- Responder algumas questões que podem surgir em torno do arquivo contendo as notas da primeira edição do [SISU UFMG](https://www.ufmg.br/sisu/wp-content/uploads/2021/04/M%C3%A1ximos-e-M%C3%ADnimos-ap%C3%B3s-Chamada-regular.pdf);
+- Responder algumas questões que podem surgir em torno do arquivo contendo as notas da primeira edição do SISU UFMG;
 
 - Melhorar meu desempenho na prática de analises de dados, me fazendo aprender a manipular arquivos não convencionais, como foi o caso desse PDF;
 
