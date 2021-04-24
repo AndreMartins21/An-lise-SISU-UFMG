@@ -36,7 +36,7 @@
 
 🔎 Regex = Trata-se das expressões regulares, que facilitam expressivamente o trabalho de buscas por cadeias de caractéres específicos em uma string;
 
-🗂️ Pandas = Ferramenta essencial para manipulação, filtração e análise de dados. Por meio dela que pude montar o data_frame semelhante à tabela de dados em PDF.
+🗂️ Pandas = Ferramenta essencial para manipulação, filtração e análise de dados. 
 
 
 **</>** Já no arquivo [***Analise_SISU_UFMG.ipynb***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/Analise_SISU_UFMG.ipynb)** há as análises dos dados, mostrando todo processo para responder às questões citadas anteriormente. Em tal arquivo, fiz uso das librarys:
