@@ -16,7 +16,7 @@
 - Melhorar meu desempenho na prática de analises de dados, me fazendo aprender a manipular arquivos não convencionais, como foi o caso desse PDF;
 
 - Me fez aprender mais acerca de Regex (Regular Expression)
-
+<br>
 
 **/>** Principais questões analisadas nesse repositório foram:
 
@@ -29,6 +29,17 @@
 - Número de cursos Matutinos / Noturnos / Integrais / Vespertinos
 
 ## Instruções:
+
+</> No arquivo [***DF_SISU_UFMG.ipynb***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/DF_SISU_UFMG.ipynb), está contido todo o processo de construção do data_frame a partir do PDF. Nele, utilizei três bibliotecas do Python: 
+
+🗄️ PyPDF2 = Utilizada para transformar o conteúdo de um PDF em uma string;
+
+🔎 Regex = Trata-se das expressões regulares, em que facilita expressivamente o trabalho de buscas por cadeias de caractéres específicos em uma string;
+
+🗂️ Pandas = Ferramente essencial para manipulação, filtração e análise de dados. Por meio dela que pude montar o data_frame semelhante à tabela de dados em PDF.
+
+
+
 
 ## Parceria:
 
