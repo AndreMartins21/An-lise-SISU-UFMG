@@ -29,8 +29,5 @@
 
 - Para a efetivação de todo o trabalho de análise, elaborei tudo em conjunto a um amigo: Gilmar.
 
-<a>
- <img src = "https://github.com/AndreMartins21/Analise-SISU-UFMG/blob/main/Imagens_Sisu/icone_github.png" width=30/>
-</a>https://github.com/Gilnior
-
+🔗 Github: [https://github.com/Gilnior](https://github.com/Gilnior)
 
