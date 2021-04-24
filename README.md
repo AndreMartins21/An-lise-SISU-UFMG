@@ -38,7 +38,7 @@
 
 🗂️ Pandas = Ferramenta essencial para manipulação, filtração e análise de dados. 
 
-
+<br>
 **</>** Já no arquivo [***Analise_SISU_UFMG.ipynb***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/Analise_SISU_UFMG.ipynb)** há as análises dos dados, mostrando todo processo para responder às questões citadas anteriormente. Em tal arquivo, fiz uso das librarys:
 
 📊 Matplotlib.pyplot = Biblioteca exclusiva para a visualização de dados e criação de gráficos;
