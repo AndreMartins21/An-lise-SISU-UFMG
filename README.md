@@ -31,7 +31,7 @@
 ## Instruções:
 
 
-**</>** O arquivo Excel [***Dashboard Sisu.xlsx***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/Dashboard%20Sisu.xlsx), contém, dinamicamente, o resultado de toda a análise realizada. Segue uma amostra desse dashboard:
+**</>** O arquivo Excel [***Dashboard Sisu.xlsx***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/Dashboard%20Sisu.xlsx), contém, dinamicamente, o resultado de toda a análise realizada. Segue abaixo uma pequena amostra desse dashboard:
 
 ![image](https://user-images.githubusercontent.com/64978311/116014377-57092400-a60b-11eb-8e68-af41f52f2b62.png)
 
