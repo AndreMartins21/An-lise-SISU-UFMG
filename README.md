@@ -20,17 +20,24 @@
 
 **/>** Questões analisadas nesse repositório:
 
-- Número de cursos ofertados no SISU UFMG 2021
+- Maior nota por modalidade selecionada para o SISU UFMG 2021;
 
-- Cinco cursos com as maiores notas POR MODALIDADE (Cotas e A.C.)
+- Cursos com as maiores notas POR MODALIDADE (Cotas e A.C.);
 
-- Cinco cursos com as menores notas POR MODALIDADE (Cotas e A.C.)
+- Cursos com as menores notas POR MODALIDADE (Cotas e A.C.);
 
-- Número de cursos Matutinos / Noturnos / Integrais / Vespertinos
+- Menor nota por modalidade selecionada para o SISU UFMG 2021.
 
 ## Instruções:
 
-**</>** No arquivo [***DF_SISU_UFMG.ipynb***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/DF_SISU_UFMG.ipynb), está contido todo o processo de construção do data_frame a partir do PDF. Nele, utilizei três bibliotecas do Python: 
+
+**</>** O arquivo Excel [***Dashboard Sisu.xlsx***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/Dashboard%20Sisu.xlsx), contém, dinamicamente, o resultado de toda a análise realizada. Segue uma amostra desse dashboard:
+
+![image](https://user-images.githubusercontent.com/64978311/116014377-57092400-a60b-11eb-8e68-af41f52f2b62.png)
+
+--------------------------------------------------------------
+
+**</>** No arquivo [***DFbruto.ipynb***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/DFbruto.ipynb), está contido todo o processo de construção do dataframe bruto a partir do PDF. Nele, utilizei três bibliotecas do Python: 
 
 ```
 . PyPDF2 = Utilizada para transformar o conteúdo de um PDF em uma string;
@@ -41,9 +48,9 @@
 ```
 --------------------------------------------------------------
 
-**</>** Já no arquivo [***Analise_SISU_UFMG.ipynb***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/Analise_SISU_UFMG.ipynb) há as análises dos dados, mostrando todo processo para responder às questões citadas anteriormente. Em tal arquivo, fiz uso das librarys:
+**</>** Já no arquivo [***DFespecífico.ipynb***](https://github.com/AndreMartins21/SISU-UFMG/blob/main/DFespec%C3%ADfico.ipynb) há o procedimento de criação do dataframe específico para ser usado no Excel. Em tal arquivo, fiz uso das librarys:
 ```
-. Matplotlib.pyplot = Biblioteca exclusiva para a visualização de dados e criação de gráficos;
+. Numpy = Biblioteca do Python usada para criação de arrays multidimensionais (Utilizei-a como testes em alguns casos)
 
 . Pandas
 ```
