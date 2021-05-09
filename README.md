@@ -2,10 +2,13 @@
  <img src = "https://user-images.githubusercontent.com/64978311/115966529-5df93f00-a504-11eb-9330-d67492b1253b.png"/>
  </p>
 
-## 📂 Arquivo: 
+## 📂 Dados: 
 
-[SISU UFMG](https://www.ufmg.br/sisu/wp-content/uploads/2021/04/M%C3%A1ximos-e-M%C3%ADnimos-ap%C3%B3s-Chamada-regular.pdf)
-(Clique para acessar o PDF contendo todas as informações)
+[Máximo e Mínimo - Chamada REGULAR](https://www.ufmg.br/sisu/wp-content/uploads/2021/04/M%C3%A1ximos-e-M%C3%ADnimos-ap%C3%B3s-Chamada-regular.pdf)
+
+[Máximo e Mínimo - 1° Chamada](https://www.ufmg.br/sisu/wp-content/uploads/2021/04/M%C3%A1ximos-e-M%C3%ADnimos-ap%C3%B3s-1%C2%AA-Chamada-LE.pdf)
+
+
 
 ## Objetivo:
 
